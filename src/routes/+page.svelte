@@ -2,7 +2,7 @@
     import { onMount } from 'svelte';
 
     // --- CONFIG ---
-    const API_BASE = "https://quarterly-represents-within-byte.trycloudflare.com";
+    const API_BASE = "http://quarterly-represents-within-byte.trycloudflare.com";
     const DISTANCE_STREAM_ID = "03c97b78-0167-446e-8bd0-cbc941561b65";
     const MATRIX_STREAM_ID = "e4904706-0687-4da7-9b05-9cbec06d689c";
     

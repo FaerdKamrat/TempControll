@@ -2,7 +2,7 @@
     import { onMount } from 'svelte';
 
     // --- CONFIG ---
-    const API_BASE = "https://8e5f-94-234-82-29.ngrok-free.app/";
+    const API_BASE = "https://f57c-185-153-212-248.ngrok-free.app";
     const DISTANCE_STREAM_ID = "03c97b78-0167-446e-8bd0-cbc941561b65";
     const MATRIX_STREAM_ID = "e4904706-0687-4da7-9b05-9cbec06d689c";
     
